@@ -1,5 +1,5 @@
 # ID 2356 — Multi-Stage Incident Involving Privilege Escalation on One Endpoint
-
+## ID 2356 PDF Report: https://www.shbelay.com/files/SOC_Reports/ID_2356.pdf
 ## Findings
 
 | Field | Value |
